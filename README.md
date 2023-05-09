@@ -32,11 +32,11 @@ The data set contains the following diseases:
 
 ### Business Goal:
 
-To build a multiclass classification model using a custom convolutional neural network in TensorFlow. 
+> To build a multiclass classification model using a custom convolutional neural network in TensorFlow. 
 
 ### Business Risk:
 
-- Predicting a incorrect class of skin cancer
+> Predicting a incorrect class of skin cancer
 
 ## CNN Architecture Design
 To classify skin cancer using skin lesions images. To achieve higher accuracy and results on the classification task, I have built custom CNN model.
