@@ -1,10 +1,13 @@
 # Melanoma-Detection
  
 ## Table of Contents
-* [Problem Statement](#problem-statement)
-* [CNN Architecture Design](#project-pipeline)
-* [Technologies Used](#technologies-used)
-* [Acknowledgements](#acknowledgements)
+- [Problem Statement](#problem-statement)
+  * [Business Understanding](#business-understanding)
+  * [Business Goal:](#business-goal-)
+  * [Business Risk:](#business-risk-)
+- [CNN Architecture Design](#cnn-architecture-design)
+- [Technologies Used](#technologies-used)
+- [Acknowledgements](#acknowledgements)
 
 ## Problem Statement
 
