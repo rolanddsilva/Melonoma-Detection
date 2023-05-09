@@ -7,7 +7,8 @@
   * [Business Risk:](#business-risk-)
 - [CNN Architecture Design](#cnn-architecture-design)
 - [Technologies Used](#technologies-used)
-- [Acknowledgements](#acknowledgements) 
+- [Acknowledgements](#acknowledgements)
+
 
 ## Problem Statement
 
