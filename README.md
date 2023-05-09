@@ -3,8 +3,8 @@
 ## Table of Contents
 - [Problem Statement](#problem-statement)
 - [Business Understanding](#business-understanding)
-- [Business Goal:](#business-goal-)
-- [Business Risk:](#business-risk-)
+- [Business Goal](#business-goal-)
+- [Business Risk](#business-risk-)
 - [CNN Architecture Design](#cnn-architecture-design)
 - [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
@@ -31,11 +31,11 @@ The data set contains the following diseases:
 * Squamous cell carcinoma
 * Vascular lesion
 
-## Business Goal:
+## Business Goal
 
  To build a multiclass classification model using a custom convolutional neural network in TensorFlow. 
 
-## Business Risk:
+## Business Risk
 
  Predicting a incorrect class of skin cancer
 
